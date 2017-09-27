@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="FirebaseLoginClass" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="gVR-Vr-u1b">
+                                <rect key="frame" x="0.0" y="637" width="375" height="30"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ERD-09-v5t">
+                                        <rect key="frame" x="0.0" y="0.0" width="125" height="30"/>
+                                        <state key="normal" title="FB"/>
+                                        <connections>
+                                            <action selector="btnFbLoginClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hfp-EE-QuV"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gYS-Xc-7IJ">
+                                        <rect key="frame" x="125" y="0.0" width="125" height="30"/>
+                                        <state key="normal" title="Google"/>
+                                        <connections>
+                                            <action selector="btnGoogleLoginClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9Md-bw-yY0"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Izf-jp-WVb">
+                                        <rect key="frame" x="250" y="0.0" width="125" height="30"/>
+                                        <state key="normal" title="Twitter"/>
+                                        <connections>
+                                            <action selector="btnTwitterLoginClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O8S-y3-yG1"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="gVR-Vr-u1b" secondAttribute="trailing" id="4cp-xD-22Z"/>
+                            <constraint firstItem="gVR-Vr-u1b" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="hxS-7Q-OrA"/>
+                            <constraint firstItem="gVR-Vr-u1b" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="un4-Ye-ksY"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-271.19999999999999" y="94.902548725637189"/>
+        </scene>
+    </scenes>
+</document>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseLoginClass/ViewController.swift"
+            timestampString = "528182067.355112"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "btnTwitterLoginClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseLoginClass.ViewController.btnTwitterLoginClick(__ObjC.UIButton) -&gt; ()"
+                  moduleName = "FirebaseLoginClass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indianic/Desktop/MY_WORK/FirebaseLoginClass/FirebaseLoginClass/ViewController.swift"
+                  timestampString = "528182946.281159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;) -&gt; () in FirebaseLoginClass.ViewController.btnTwitterLoginClick(__ObjC.UIButton) -&gt; ()"
+                  moduleName = "FirebaseLoginClass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indianic/Desktop/MY_WORK/FirebaseLoginClass/FirebaseLoginClass/ViewController.swift"
+                  timestampString = "528182946.284583"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseLoginClass/AppDelegate.swift"
+            timestampString = "528182903.421805"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of FirebaseLoginClass.AppDelegate.kGoogleURLScheme : Swift.String"
+                  moduleName = "FirebaseLoginClass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indianic/Desktop/MY_WORK/FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift"
+                  timestampString = "528127024.623884"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseLoginClass.AppDelegate.kGoogleURLScheme.getter : Swift.String"
+                  moduleName = "FirebaseLoginClass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indianic/Desktop/MY_WORK/FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift"
+                  timestampString = "528127024.626674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseLoginClass.AppDelegate.init() -&gt; FirebaseLoginClass.AppDelegate"
+                  moduleName = "FirebaseLoginClass"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/indianic/Desktop/MY_WORK/FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift"
+                  timestampString = "528127024.629399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

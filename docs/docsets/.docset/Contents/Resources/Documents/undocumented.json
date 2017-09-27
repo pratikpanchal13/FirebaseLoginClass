@@ -1,0 +1,215 @@
+{
+  "warnings": [
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 16,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 18,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 20,
+      "symbol": "AppDelegate.kFbURLScheme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 21,
+      "symbol": "AppDelegate.kGoogleURLScheme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.kTwitterURLScheme",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.kTwitterAPIKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 24,
+      "symbol": "AppDelegate.kTwitterSecretKey",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 26,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 35,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 40,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 45,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 49,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 53,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/AppDelegate.swift",
+      "line": 56,
+      "symbol": "AppDelegate.application(_:open:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 18,
+      "symbol": "FirebaseSocialLogin",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 20,
+      "symbol": "FirebaseSocialLogin.sharedInstance",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 21,
+      "symbol": "FirebaseSocialLogin.presentVC",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 23,
+      "symbol": "FirebaseSocialLogin.block",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 29,
+      "symbol": "FirebaseSocialLogin.twitterLogin(_:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 65,
+      "symbol": "FirebaseSocialLogin.fBLogin(_:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 106,
+      "symbol": "FirebaseSocialLogin.googleLogin(_:completionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 116,
+      "symbol": "FirebaseSocialLogin.sign(_:didSignInFor:withError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 148,
+      "symbol": "FirebaseSocialLogin.sign(_:present:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/FirebaseSocialLogin.swift",
+      "line": 155,
+      "symbol": "FirebaseSocialLogin.sign(_:dismiss:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/ViewController.swift",
+      "line": 11,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/ViewController.swift",
+      "line": 13,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/ViewController.swift",
+      "line": 18,
+      "symbol": "ViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/ViewController.swift",
+      "line": 22,
+      "symbol": "ViewController.btnFbLoginClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/ViewController.swift",
+      "line": 28,
+      "symbol": "ViewController.btnGoogleLoginClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Volumes/DATA/Arpit /FirebaseLoginClass/FirebaseLoginClass/ViewController.swift",
+      "line": 34,
+      "symbol": "ViewController.btnTwitterLoginClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Volumes/DATA/Arpit /FirebaseLoginClass"
+}
